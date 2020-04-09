@@ -1,0 +1,392 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"format_suffix_patterns"
+			],
+			[
+				"sn",
+				"snippet_detail"
+			],
+			[
+				"pe",
+				"permission_classes"
+			],
+			[
+				"Group",
+				"GroupSerializer"
+			],
+			[
+				"border-s",
+				"border-style\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"font-",
+				"font-style\tproperty"
+			],
+			[
+				"Pro",
+				"Profile"
+			],
+			[
+				"Co",
+				"Comment_Post"
+			],
+			[
+				"Commen",
+				"Comment_View"
+			],
+			[
+				"Comment",
+				"Comment_Form"
+			],
+			[
+				"gee",
+				"get_object_or_404"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"Comm",
+				"Comment_View"
+			],
+			[
+				"Pos",
+				"Post_Detail_View"
+			],
+			[
+				"Po",
+				"Post"
+			],
+			[
+				"C",
+				"Comment_Form"
+			],
+			[
+				"se",
+				"search_post"
+			],
+			[
+				"pos",
+				"postFormSet"
+			],
+			[
+				"mod",
+				"modelformset_factory"
+			],
+			[
+				"ob",
+				"get_object_or_404"
+			],
+			[
+				"Profile",
+				"Profile_Form"
+			],
+			[
+				"pa",
+				"password_change_done"
+			],
+			[
+				"Change_pas",
+				"Change_password_done"
+			],
+			[
+				"pass",
+				"password_rest"
+			],
+			[
+				"Post",
+				"Post_Form_DeleteView"
+			],
+			[
+				"reverse",
+				"reverse_lazy"
+			],
+			[
+				"P",
+				"Post_app"
+			],
+			[
+				"For",
+				"FormView"
+			],
+			[
+				"pro",
+				"profile_View"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"p",
+				"profile_form"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"auth",
+				"auth_views"
+			],
+			[
+				"U",
+				"User_Registration_view"
+			],
+			[
+				"au",
+				"auth_views"
+			],
+			[
+				"User",
+				"UserCreationForm"
+			],
+			[
+				"De",
+				"DeleteView"
+			],
+			[
+				"T",
+				"Things_Delete_View"
+			],
+			[
+				"Things",
+				"Things_Create_View"
+			],
+			[
+				"Cre",
+				"CreateView"
+			],
+			[
+				"Ba",
+				"BASE_DIR"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/tozman99/Desktop/Blog/Blog/urls.py",
+		"/home/tozman99/Desktop/Blog/Post_app/migrations/0001_initial.py",
+		"/home/tozman99/Downloads/nopicture.jpeg",
+		"/home/tozman99/Desktop/Blog/Post_app/templates/Post_app/search_post.py",
+		"/home/tozman99/Desktop/Blog/media/media/photo_profile/images_H49dewG.jpeg",
+		"/home/tozman99/Desktop/Blog/Post_app/templates/Post_app/base.html",
+		"/home/tozman99/Desktop/Blog/User_app/templates/registration/logout.html",
+		"/home/tozman99/Desktop/Blog/User_app/templates/registration/profile.html",
+		"/home/tozman99/Desktop/Blog/templates/registration/password_reset_confirm.html",
+		"/home/tozman99/Desktop/Blog/Post_app/models.py",
+		"/home/tozman99/Desktop/Blog/Post_app/templates/Post_app/post_delete.html",
+		"/home/tozman99/Desktop/Blog/Post_app/templates/Post_app/post_update.html",
+		"/home/tozman99/Desktop/Blog/Post_app/templates/Post_app/createpost.html",
+		"/home/tozman99/Desktop/Blog/Post_app/urls.py",
+		"/home/tozman99/Desktop/Blog/Post_app/forms.py",
+		"/home/tozman99/Desktop/Blog/User_app/urls.py",
+		"/home/tozman99/Desktop/Blog/templates/registration/password_reset_done.html",
+		"/home/tozman99/Desktop/Blog/templates/registration/password_reset_complete.html",
+		"/home/tozman99/Desktop/Blog/templates/registration/password_reset_form.html",
+		"/home/tozman99/Desktop/Blog/Post_app/views.py",
+		"/home/tozman99/Desktop/Blog/Post_app/admin.py",
+		"/home/tozman99/Desktop/Blog/User_app/models.py",
+		"/home/tozman99/Desktop/Blog/Post_app/templates/Post_app/list.html",
+		"/home/tozman99/Desktop/Blog/Post_app/templates/Post_app/detail.html",
+		"/home/tozman99/Desktop/Blog/User_app/views.py",
+		"/home/tozman99/Desktop/Blog/User_app/templates/registration/password_reset_subject.txt",
+		"/home/tozman99/Desktop/Blog/User_app/templates/registration/password_reset_email.html",
+		"/home/tozman99/Desktop/Blog/User_app/templates/registration/password_reset_form.html",
+		"/home/tozman99/Desktop/Blog/User_app/templates/registration/password_reset_done.html",
+		"/home/tozman99/Desktop/Blog/User_app/templates/registration/password_reset_confirm.html",
+		"/home/tozman99/Desktop/Blog/User_app/templates/registration/password_reset_complete.html",
+		"/home/tozman99/Desktop/Blog/templates",
+		"/home/tozman99/Desktop/Blog/User_app/templates/registration/untitled",
+		"/home/tozman99/Desktop/Blog/Blog/settings.py",
+		"/home/tozman99/Desktop/Blog/Post_app/templates/base.html",
+		"/home/tozman99/Desktop/Blog/User_app/forms.py",
+		"/home/tozman99/Desktop/Blog/User_app/templates/registration/login.html",
+		"/home/tozman99/Desktop/Blog/Blog_app/admin.py",
+		"/home/tozman99/Desktop/Blog/User_app/templates/registration/wait_confirm.html",
+		"/home/tozman99/Desktop/Blog/User_app/admin.py",
+		"/home/tozman99/Desktop/Blog/User_app/templates/registration/signup.html",
+		"/home/tozman99/Desktop/Blog/User_app/templates/User_app/home.html",
+		"/home/tozman99/Desktop/Blog/User_app/templates/User_app/registration/login.html",
+		"/home/tozman99/Desktop/todoApp/todo_theapp/forms.py",
+		"/home/tozman99/Desktop/todoApp/todo_theapp/templates/base.html",
+		"/home/tozman99/Desktop/todoApp/todo_theapp/templates/todo_theapp/delete.html",
+		"/home/tozman99/Desktop/todoApp/todo_theapp/templates/todo_theapp/detail.html",
+		"/home/tozman99/Desktop/todoApp/todo_theapp/urls.py",
+		"/home/tozman99/Desktop/todoApp/todo_theapp/templates/todo_theapp/list.html",
+		"/home/tozman99/Desktop/todoApp/todo_theapp/templates/todo_theapp/update.html",
+		"/home/tozman99/Desktop/todoApp/todo_theapp/views.py",
+		"/home/tozman99/Desktop/todoApp/todoApp/urls.py",
+		"/home/tozman99/Desktop/todoApp/todo_theapp/templates/todo_theapp/todo.html",
+		"/home/tozman99/Desktop/todoApp/todoApp/settings.py",
+		"/home/tozman99/Desktop/todoApp/todo_theapp/admin.py",
+		"/home/tozman99/Desktop/todoApp/todo_theapp/models.py",
+		"/home/tozman99/Desktop/todoApp/todo_theapp/templates/todo_theapp/create.html",
+		"/home/tozman99/Desktop/todoApp/todo_theapp/templates/delete.html",
+		"/home/tozman99/Desktop/todoApp/todo_theapp/templates/todo_theapp/urls.py",
+		"/home/tozman99/Desktop/todoApp/todo_theapp/templates/todo_theapp/forms.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "activate.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
